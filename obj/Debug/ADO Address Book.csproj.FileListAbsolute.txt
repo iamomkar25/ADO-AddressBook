@@ -1,0 +1,16 @@
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\ADO Address Book.exe.config
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\ADO Address Book.exe
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\ADO Address Book.pdb
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\EntityFramework.dll
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\EntityFramework.xml
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\obj\Debug\ADO Address Book.csproj.AssemblyReference.cache
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\obj\Debug\ADO Address Book.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\obj\Debug\ADO Address Book.csproj.CoreCompileInputs.cache
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\obj\Debug\ADO Address Book.csproj.CopyComplete
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\obj\Debug\ADO Address Book.exe
+C:\Users\iamomkar\source\repos\ADO Address Book\ADO Address Book\obj\Debug\ADO Address Book.pdb
